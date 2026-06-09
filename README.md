@@ -1,2 +1,2 @@
-# miniproject1inc
+# BANK MANAGEMENT SYSTEN
 bankingsystem
